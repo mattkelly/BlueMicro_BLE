@@ -97,7 +97,7 @@ printf -- "---------------------------------------------------------------------
 if [ -z "$boardParam" ]; then
 
    printf "\n"
-   printf "This script can be run with paramters\n"
+   printf "This script can be run with parameters\n"
    printf "./build-macos [-v] [-c] keyboard:keymap:target\n"
 
    selectedKeyboard="all"
